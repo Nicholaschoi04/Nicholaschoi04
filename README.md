@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas
-- 👀 I’m interested in the intersection of software, mathematics, and finance.
+- 👀 I’m interested in the intersection of software, mathematics, and finance
 - 🌱 I’m currently learning React.js and Node.js
 - 📫 How to reach me nicholaschoi04@gmail.com
 
